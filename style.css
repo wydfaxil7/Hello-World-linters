@@ -1,0 +1,11 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 300px;
+}
